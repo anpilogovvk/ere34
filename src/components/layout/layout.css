@@ -1,0 +1,33 @@
+.layout{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #164863;
+    font-size: 50px;
+}
+
+.sidebar {
+    width: 300px;
+    background-color: #9BBEC8;
+    height: 100%;
+}
+
+.mainContent {
+    width: 100%;
+    background-color: #DDF2FD;
+    height: 100%;
+}
